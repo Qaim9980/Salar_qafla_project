@@ -1,0 +1,7 @@
+PySide6>=6.6
+Pillow>=10.0
+numpy>=1.26
+opencv-python>=4.8
+easyocr>=1.7
+pytest>=8.0
+
